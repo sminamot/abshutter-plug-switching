@@ -1,0 +1,4 @@
+github.com/gvalkov/golang-evdev v0.0.0-20191114124502-287e62b94bcb h1:WHSAxLz3P5t4DKukfJ5wu7+aMyVkuTNSbCiAjVS92sM=
+github.com/gvalkov/golang-evdev v0.0.0-20191114124502-287e62b94bcb/go.mod h1:SAzVFKCRezozJTGavF3GX8MBUruETCqzivVLYiywouA=
+github.com/nasa9084/go-switchbot v0.1.0 h1:f1f+9cqFAjjgXbMtcPkkcjr81u+Q4kRE1+tn0n09XMk=
+github.com/nasa9084/go-switchbot v0.1.0/go.mod h1:WVJWrbEKfzDWXoJ+YKDuRcdvSOLuJ7LjWwZJqIrwfTo=
